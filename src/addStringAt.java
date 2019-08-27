@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 
 import javax.swing.text.NumberFormatter;
 
-public class Benchmark {
+public class addStringAt {
 	
 	public static void main (String[] args) {
 		
@@ -47,7 +47,7 @@ public class Benchmark {
 		}
 		return temp;
 	}
-	public static String insertString (String zuBearb, String insert, int index) {	//Fügt einen String vor einer bestimmten Stelle des anderen Strings ein. 
+	public static String insertString (String zuBearb, String insert, int index) {	//FÃ¼gt einen String vor einer bestimmten Stelle des anderen Strings ein. 
 		String teil1 = zuBearb.substring(index);
 		String teil2 = zuBearb.substring(0, index);
 		//		System.out.println(teil1 + " - " + teil2);
