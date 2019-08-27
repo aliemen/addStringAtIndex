@@ -3,3 +3,6 @@ Diese Methode (2 Methoden) ermöglicht es zum einen mit einem Aufruf von "addPoi
 der die Tausenderpunktierung besitzt.
 Des Weiteren kann die andere Methode "insertString(String zuBearb, String insert, int index)" dazu genutzt werden,
 den String insert in zuBearb vor der Stelle index einzusetzen.
+
+
+Den benutzten Timer findet man als .jar library mit in im Repository, wobei das nur einer ganz einfache library ist.
